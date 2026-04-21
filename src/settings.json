@@ -59,6 +59,22 @@
           }
         }
       ]
-    }               
+    },
+{
+  "name": "Maker",
+  "items": [
+    {
+      "name": "Fake FF Duo 3",
+      "desc": "Generate fake duo Free Fire image",
+      "path": "/maker/fakeffduo3?name1=&name2=&bg=",
+      "status": "ready",
+      "params": {
+        "name1": "Nama",
+        "name2": "Nama",
+        "bg": "Nomor background (1-50)"
+      }
+    }
+  ]
+}               
   ]
 }
